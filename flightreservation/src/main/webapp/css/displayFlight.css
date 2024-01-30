@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+.header_display_flight{
+	width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),url('../images/pic4.jpg') ;
+    padding: 0px 6%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+}
+#select_flight{
+	text-decoration: none;
+    padding: 5px 40px;
+    color: #fff;
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: #16db93!important;
+}
